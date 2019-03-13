@@ -1,0 +1,61 @@
+body {
+    background-color: #061229;
+}
+
+img {
+    width: 50%;
+}
+
+button {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #39517f;
+    color: #ffffff;
+    line-height: 16px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.form-horizontal {
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
+.btn {
+    width: 30%;
+}
+
+/*FIXME: corrigir input e redimensionar botões*/
+.convert {
+    border-color: #28ff1a;
+    color: #28ff1a;
+    margin-left: 19%;
+}
+
+.convert:hover {
+    background-color: #28ff1a;
+    color: #ffffff;
+}
+
+.erase {
+    border-color: #ff0000;
+    color: #ff0000;
+}
+
+.erase:hover {
+    background-color: #ff0000;
+    color: #ffffff;
+}
+
+/*FIXME: ajustar footer para responsividade*/
+footer {
+    text-align: center;
+    color: #ffffff;
+    line-height: 15px;
+    font-size: 13px;
+}
